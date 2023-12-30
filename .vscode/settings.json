@@ -1,0 +1,32 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "mysql-mathysc.alwaysdata.net",
+            "port": 3306,
+            "driver": "MariaDB",
+            "database": "mathysc_projetfullstack",
+            "username": "mathysc",
+            "name": "ConnexionBDD",
+            "password": "Jesaispas123@"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 8889,
+            "driver": "MySQL",
+            "database": "test",
+            "username": "mathyss",
+            "password": "mathys",
+            "name": "ConnexionLocalhost"
+        }
+    ]
+}
