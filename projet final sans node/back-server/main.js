@@ -1,0 +1,1 @@
+console.log(process.env.NVM_DIR="$HOME/.nvm")
