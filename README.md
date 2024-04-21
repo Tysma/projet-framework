@@ -1,28 +1,26 @@
-# projet-framework
-
 # Projet Mystock
 
 ## Installation
 
-# Installer les dépendances pour le backend
+### Installer les dépendances pour le backend
 cd back-server
 npm install
 
-# Installer les dépendances pour le frontend
+### Installer les dépendances pour le frontend
 cd ../front-client
 npm install
 
-# Lancement
+## Lancement
 
-# Backend
+### Backend
 cd back-server
 npm start
 
-# Frontend
+### Frontend
 cd ../front-client
 npm run dev
 
-# Fonctionnalités
+## Fonctionnalités
 - Feedback à l'authentification : Des messages d'erreur ou de succès lors de l'authentification.
 - CRUD : Création, lecture, mise à jour, et suppression des données.
 - Recherche dans l'inventaire : Fonction de recherche pour trouver des éléments spécifiques rapidement.
